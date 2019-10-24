@@ -1,0 +1,21 @@
+img {
+  width: 200px;
+}
+
+.animal h1{
+  text-align: center;
+}
+
+.animal p {
+  text-align: justify;
+}
+
+.animal {
+  border:  1px solid gray;
+  margin: 20px;
+  display: none;
+}
+
+label {
+  margin-left: 10px;
+}
